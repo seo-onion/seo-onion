@@ -1,4 +1,4 @@
-# 👋 Hola, soy Sebastian Hernandez (seo-onion)
+# 👋 Hola, soy Sebastian Hernandez 
 
 🚀 **Desarrollador web full stack y entusiasta de la tecnología**  
 Estudiante de Ciencias de la Computación en la Universidad de Ingeniería y Tecnología (UTEC). Apasionado por crear soluciones innovadoras con tecnologías modernas en frontend y backend, y por compartir conocimiento a través de la enseñanza.
