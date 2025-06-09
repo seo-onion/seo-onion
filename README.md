@@ -28,7 +28,7 @@ Estudiante de Ciencias de la Computación en la Universidad de Ingeniería y Tec
 - Desarrollo backend para plataforma de gestión de inventarios en el sector transporte.  
 - Modelado de bases de datos y desarrollo CRUD con Django y SQLite.  
 
-### Profesor de Desarrollo Web Frontend (Rotarac, 2023-2024)  
+### Profesor de Desarrollo Web Frontend (Rotaract, 2023-2024)  
 - Impartí clases de HTML, CSS, JavaScript y diseño responsivo a jóvenes y adolescentes.  
 - Creé materiales didácticos para facilitar el aprendizaje tecnológico.  
 
